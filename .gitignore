@@ -1,7 +1,9 @@
-# Visual Studio files and folder
+# Visual Studio files/Build files
 .vs/
-# **.sln
-# **.vcxproj
-# **.vcxproj.filters
-# **.vcxproj.user
-# **.csproj
+
+# Build/Debug
+**.exe
+**.obj
+**.pdb
+**.ilk
+**.sln
