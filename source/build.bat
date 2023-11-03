@@ -2,5 +2,5 @@
 
 mkdir ..\build
 pushd ..\build
-cl -Zi ..\source\win32_Game.cpp user32.lib
+cl -Zi ..\source\Game.cpp user32.lib
 popd
